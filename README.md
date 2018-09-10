@@ -1,4 +1,4 @@
-git# Mastermind
+# Mastermind
 
 In this project, you'll implement the game
 [Mastermind][wiki-mastermind].
